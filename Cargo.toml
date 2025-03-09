@@ -1,6 +1,7 @@
 [package]
 name = "rbxsoap"
 version = "0.1.0"
+license = "MIT"
 edition = "2021"
 description = "A lightweight rust library for communicating with RCCService (Roblox Cloud Compute Service)"
 authors = ["worships <realwalnut@proton.me>"]
