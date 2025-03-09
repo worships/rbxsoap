@@ -2,6 +2,12 @@
 
 A lightweight rust library for communicating with RCCService (Roblox Cloud Compute Service)
 
+## Installing
+
+```bash
+cargo add rbxsoap
+```
+
 ## Examples
 
 Basic configuration:
