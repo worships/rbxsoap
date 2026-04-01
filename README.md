@@ -59,7 +59,7 @@ let response = rcc.open_job(
 Open JSON job:
 
 > [!NOTE]
-> JSON jobs can only be used on version 0.314.0.159032 and above
+> JSON jobs can only be used on version 0.284 (or something along those lines iirc) and above
 
 ```rust
 use rbxsoap::RccSoapMessages;
